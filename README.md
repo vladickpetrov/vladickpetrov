@@ -7,10 +7,8 @@
 - 🌱 I’m currently learning **Redux and TypeScript**
 
 - 📫 How to reach me **minnesota746@gmail.com**
-- 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladickpetrov)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=vladickpetrov&theme=javascript)](https://git.io/streak-stats)
 
 
