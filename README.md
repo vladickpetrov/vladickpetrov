@@ -1,4 +1,4 @@
-## Oh, hi there and welcome! 👋
+# Oh, hi there! 👋
 
 - 🦔 Call me just **Vlad**
 
