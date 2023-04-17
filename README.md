@@ -8,7 +8,9 @@
 
 - 📫 How to reach me **minnesota746@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladickpetrov)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=vladickpetrov)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladickpetrov)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vladickpetrov)](https://git.io/streak-stats)
 
 
 <h3 align="left">Tools:</h3>
