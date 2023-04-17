@@ -1,6 +1,6 @@
 ## Oh, hi there and welcome! 👋
 
-- 🦔 Call me **Vlad**
+- 🦔 Call me just **Vlad**
 
 - 🔭 I’m currently working on **SO.net**
 
