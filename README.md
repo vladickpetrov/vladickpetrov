@@ -2,7 +2,7 @@
 
 - 🦔 Call me just **Vlad**
 
-- 🔭 I’m currently working on **SO.net**
+- 🔭 I’m currently working on **Don't Stop**
 
 - 🌱 I’m currently learning **Redux and TypeScript**
 
